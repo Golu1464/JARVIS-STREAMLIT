@@ -1,0 +1,8 @@
+
+streamlit
+openai
+requests
+pygame
+gtts
+speechrecognition
+pyaudio
